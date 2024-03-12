@@ -7,7 +7,7 @@
   
   /* header */
   header {
-    background-image: url(./img/design-assets/bgk-header.png);
+    background-image: url(./img/bgk-header.png);
       justify-content: center;
     background-size: cover;
     text-align: center;
@@ -153,7 +153,7 @@
     }
   
   #watch-section {
-    background-image: url(./img/design-assets/bgk-middle.png);
+    background-image: url(./img/bgk-middle.png);
     background-size: cover;
     height: 65vh;
     display: flex;
@@ -330,7 +330,7 @@
   
   #team-section
   {
-    background: url("./img//design-assets/bgk-header.png");
+    background: url("./img/bgk-header.png");
     justify-content: center;
     background-size: cover;
     text-align: center;
@@ -508,7 +508,7 @@
   footer {
     color: #FEFEFE;
     padding: 2.5rem, 0;
-    background: url("./img/design-assets/bgk-footer.png");
+    background: url("./img/bgk-footer.png");
     /* background-size: cover; */
     justify-content: center;
     background-size: cover;
